@@ -17,6 +17,7 @@ By: Ikraduya Edian
 * [jQuery](https://jquery.com/) - Cross-platform JavaScript library designed to simplify the client-side scripting of HTML
 * [React](https://reactjs.org/) - JavaScript library for building user interfaces
   * [React Redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
+  * [react-dnd](https://github.com/react-dnd/react-dnd) - React higher-order components to help you build complex drag and drop interfaces while keeping your components decoupled
   * [react-slick](https://github.com/akiran/react-slick) - Carousel component built with React
   * [reactstrap](https://github.com/reactstrap/reactstrap) - React Bootstrap 4 components
   * [Tabler React](https://github.com/tabler/tabler-react) - React implementation of the Tabler Dashboard UI Kit
