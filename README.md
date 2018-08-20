@@ -1,5 +1,5 @@
 # Website Development Resource List
-By: Ikraduya Edian
+Curated by: Ikraduya Edian
 
 ## Platforms
 * [Node.js](https://nodejs.org/) - JavaScript runtime built on Chrome's V8 JavaScript engine
