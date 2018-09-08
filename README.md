@@ -59,6 +59,7 @@ Curated by: Ikraduya Edian
 * [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server
 * [npm](https://www.npmjs.com/) - Package manager for Node.js
 * [Postman](https://www.getpostman.com/) - API development environment, for API developers
+* [Trello](https://trello.com/) - Web-based project management application
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editor redefined and optimized for building and debugging modern web and cloud applications
 
 ## Misc
